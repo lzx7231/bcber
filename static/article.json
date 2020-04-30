@@ -1,0 +1,9 @@
+{
+  "list": [
+    {
+      "recordId": 20421,
+      "title": "基于Vue CLI3脚手架开发纯静态个人博客站（无评论、回复功能）",
+      "content": "<h4>一、开发环境准备（windows为例）</h4> <p> 1. 安装node.js及全局安装Vue CLI3脚手架工具。 node安装包下载地址： <a href='https://nodejs.org/zh-cn/download/' target='_blank'>https://nodejs.org/zh-cn/download/</a>， 根据自己电脑系统及位数选择，我这里选择windows64位.msi格式安装包。 Vue CLI3 需要通过命令行工具进行安装，以Windows系统为例，同时按住 win + R 键，输入npm install -g @vue/cli </p> <p> 2. 选择适合自己的 IDE（即开发工具），推荐使用 VS Code / IntelJ Idea / WebStorm。我自己用的是 IntelJ Idea </p> <hr> <h4>二、项目初始化</h4> <hr> <h4>三、运行项目</h4> <hr>"
+    }
+  ]
+}
